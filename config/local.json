@@ -1,0 +1,14 @@
+{
+    "project": {
+        "port": 8080,
+        "url": "localhost:8080",
+        "host": "localhost",
+        "jwtSecret": "@h3@re@p1se3retkey02"
+    },
+    "database": {
+        "username": "Shan1999",
+        "password": "ShanAsAdmin",
+        "host": "cluster-sg.oe4hd.mongodb.net",
+        "database": "RecruitmentMgt"
+    }
+}
